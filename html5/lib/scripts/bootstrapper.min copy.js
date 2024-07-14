@@ -267,7 +267,7 @@
                                     : function (t, e) {
                                       if (t === "html5/data/js/frame.js") {
                                         t =
-                                          "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427/frame.js";
+                                          "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830/frame.js";
                                       }
                                         var n =
                                           document.createElement("script");
@@ -6488,7 +6488,7 @@
               e.setAttribute("aria-hidden", "true"),
                 (e.id = "analytics-frame"),
                 (e.src =
-                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427"),
+                  "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830"),
                 (e.style.position = "fixed"),
                 (e.style.left = "-1000px"),
                 (e.style.top = 0),
@@ -7187,16 +7187,16 @@
             l = function t(e) {
               if (e == "html5/data/js/5s6kMnUYThe.js")
                 e =
-                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427";
+                  "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830";
               if (e == "html5/data/js/data.js")
                 e =
-                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427";
+                  "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830";
               if (e == "html5/data/js/frame.js")
                 e =
-                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427";
+                  "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830";
               if (e == "html5/data/js/paths.js")
                 e =
-                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427/paths.js";
+                  "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830/paths.js";
               
               return new Promise(function (n, i) {
                 DS.connection.requiredAsset(
@@ -7562,20 +7562,20 @@
               a = n + i + r + e.DATA_PATH_BASE + "/html5/lib/scripts",
               s = n + i + r + e.DATA_PATH_BASE + "/html5/lib/stylesheets",
               o =
-                "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
+                "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
               a =
-                "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
+                "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
               s =
-                "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
+                "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
               l = {
-                slideLocation: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
+                slideLocation: "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
                 frameLocations: {
-                  MOBILE: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
-                  DESKTOP: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
+                  MOBILE: "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
+                  DESKTOP: "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
                 },
                 cssLocations: {
-                  MOBILE: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
-                  DESKTOP: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
+                  MOBILE: "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
+                  DESKTOP: "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
                 },
                 player: {},
                 LINE_BREAK_REGEX: /\n|\r/,
@@ -7597,8 +7597,8 @@
                 PATH_DELIMITER: ".",
                 NODE_DELIMITER: "-",
                 SVG_NODE_PREFIX: "commandset",
-                PRESENTATION_URL: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
-                PRESENTATION_DATA_URL: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427",
+                PRESENTATION_URL: "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
+                PRESENTATION_DATA_URL: "https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830",
                 STORY_CONTENT_URL: "story_content/",
                 QUIZ_MAKER_URL: "quiz_content/",
                 PRESENTER_URL: "presentation_content/",
@@ -18624,10 +18624,10 @@
               c = l.theme.isUnified,
               h = document.createElement("div"),
               d = function (t, e) {
-                return '<!DOCTYPE html><html lang="en"> <head> <meta charset="utf-8" /> <link rel="stylesheet" href="https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427/'
+                return '<!DOCTYPE html><html lang="en"> <head> <meta charset="utf-8" /> <link rel="stylesheet" href="https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830/'
                   .concat(
                     u ? "mobile" : "desktop",
-                    '.min.css" /> <link rel="stylesheet" href="https://cdn.statically.io/gh/kimhanggggggg/enews/commit/fe3bbb47a7a014b3d296ac6b78940d8da3962427/html5/data/css/output.min.css" /> <style>* { margin: 0; padding: 0; pointer-events: none !important; } .slide-thumb { position: absolute; left: 0; top: 0; width: '
+                    '.min.css" /> <link rel="stylesheet" href="https://cdn.statically.io/gh//kimhanggggggg/enews/commit/b4577e82beb290f406c8345375ff1dd998047830/html5/data/css/output.min.css" /> <style>* { margin: 0; padding: 0; pointer-events: none !important; } .slide-thumb { position: absolute; left: 0; top: 0; width: '
                   )
                   .concat(t, "px; height: ")
                   .concat(
