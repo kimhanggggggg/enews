@@ -267,7 +267,7 @@
                                     : function (t, e) {
                                       if (t === "html5/data/js/frame.js") {
                                         t =
-                                          "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js/frame.js";
+                                          "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js/frame.js";
                                       }
                                         var n =
                                           document.createElement("script");
@@ -6488,7 +6488,7 @@
               e.setAttribute("aria-hidden", "true"),
                 (e.id = "analytics-frame"),
                 (e.src =
-                  "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/analytics-frame.html"),
+                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/analytics-frame.html"),
                 (e.style.position = "fixed"),
                 (e.style.left = "-1000px"),
                 (e.style.top = 0),
@@ -7187,16 +7187,16 @@
             l = function t(e) {
               if (e == "html5/data/js/5s6kMnUYThe.js")
                 e =
-                  "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js/5s6kMnUYThe.js";
+                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js/5s6kMnUYThe.js";
               if (e == "html5/data/js/data.js")
                 e =
-                  "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js/data.js";
+                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js/data.js";
               if (e == "html5/data/js/frame.js")
                 e =
-                  "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js/frame.js";
+                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js/frame.js";
               if (e == "html5/data/js/paths.js")
                 e =
-                  "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js/paths.js";
+                  "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js/paths.js";
               
               return new Promise(function (n, i) {
                 DS.connection.requiredAsset(
@@ -7562,20 +7562,20 @@
               a = n + i + r + e.DATA_PATH_BASE + "/html5/lib/scripts",
               s = n + i + r + e.DATA_PATH_BASE + "/html5/lib/stylesheets",
               o =
-                "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js",
+                "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js",
               a =
-                "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/scripts",
+                "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/scripts",
               s =
-                "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/stylesheets",
+                "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/stylesheets",
               l = {
-                slideLocation: "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/scripts/slides.min.js?updated=321",
+                slideLocation: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/scripts/slides.min.js?updated=321",
                 frameLocations: {
-                  MOBILE: "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/scripts/frame.mobile.min.js?updated=321",
-                  DESKTOP: "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/scripts/frame.desktop.min.js?updated=321",
+                  MOBILE: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/scripts/frame.mobile.min.js?updated=321",
+                  DESKTOP: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/scripts/frame.desktop.min.js?updated=321",
                 },
                 cssLocations: {
-                  MOBILE: "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/stylesheets/mobile.min.css?updated=321",
-                  DESKTOP: "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/stylesheets/desktop.min.css?updated=321",
+                  MOBILE: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/stylesheets/mobile.min.css?updated=321",
+                  DESKTOP: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/stylesheets/desktop.min.css?updated=321",
                 },
                 player: {},
                 LINE_BREAK_REGEX: /\n|\r/,
@@ -7597,8 +7597,8 @@
                 PATH_DELIMITER: ".",
                 NODE_DELIMITER: "-",
                 SVG_NODE_PREFIX: "commandset",
-                PRESENTATION_URL: "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js",
-                PRESENTATION_DATA_URL: "https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/js",
+                PRESENTATION_URL: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js",
+                PRESENTATION_DATA_URL: "https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/js",
                 STORY_CONTENT_URL: "story_content/",
                 QUIZ_MAKER_URL: "quiz_content/",
                 PRESENTER_URL: "presentation_content/",
@@ -18624,10 +18624,10 @@
               c = l.theme.isUnified,
               h = document.createElement("div"),
               d = function (t, e) {
-                return '<!DOCTYPE html><html lang="en"> <head> <meta charset="utf-8" /> <link rel="stylesheet" href="https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/lib/stylesheets/'
+                return '<!DOCTYPE html><html lang="en"> <head> <meta charset="utf-8" /> <link rel="stylesheet" href="https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/lib/stylesheets/'
                   .concat(
                     u ? "mobile" : "desktop",
-                    '.min.css" /> <link rel="stylesheet" href="https://cdn.statically.io/gh/cuong27102017/design-team-cdn/3218807d40d88a9e4a079e20df63e473cb189d2d/html5/data/css/output.min.css" /> <style>* { margin: 0; padding: 0; pointer-events: none !important; } .slide-thumb { position: absolute; left: 0; top: 0; width: '
+                    '.min.css" /> <link rel="stylesheet" href="https://cdn.statically.io/gh/kimhanggggggg/enews/commit/79613c5113538609ae03f2253982f78d099d6f89/html5/data/css/output.min.css" /> <style>* { margin: 0; padding: 0; pointer-events: none !important; } .slide-thumb { position: absolute; left: 0; top: 0; width: '
                   )
                   .concat(t, "px; height: ")
                   .concat(
